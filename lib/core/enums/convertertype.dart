@@ -1,0 +1,1 @@
+enum ConverterType { Amount, Currency }
