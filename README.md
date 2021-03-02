@@ -1,6 +1,6 @@
 # money_converter
 
-A new Flutter project.
+A flutter app designed using MVVM Design Pattern.
 
 ## Getting Started
 
